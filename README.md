@@ -1,13 +1,12 @@
 zenhub-now
 ==========
 
-[![Powered by ZenHub.io](https://raw.github.com/axiomzen/zenhub-now/master/powered-by-zenhub-720.png)](https://zenhub.io)
-
+<a href="https://zenhub.io" target="_blank"><img src="https://raw.github.com/axiomzen/zenhub-now/master/powered-by-zenhub-720.png"/></a>
 
 ## "Powered by ZenHub" tag
 
 Let your team and follower know your repos are using ZenHub by add this snippet to your repo's readme file:
 
-```md
-[![Powered by ZenHub.io](https://raw.github.com/axiomzen/zenhub-now/master/powered-by-zenhub-720.png)](https://zenhub.io)
+```html
+<a href="https://zenhub.io" target="_blank"><img src="https://raw.github.com/axiomzen/zenhub-now/master/powered-by-zenhub-720.png" alt="Powered by ZenHub"/></a>
 ```
