@@ -1,7 +1,7 @@
 zenhub-now
 ==========
 
-Welcome to our public-facing ZenHub repo. Use this repo to submit issues, feature requests, or just to say hi. 
+Welcome to our public-facing ZenHub repo. Use this repo to submit issues, vote on feature requests, or just say hi. 
 
 <a href="https://zenhub.io" target="_blank"><img src="https://raw.github.com/axiomzen/zenhub-now/master/powered-by-zenhub-720.png"/></a>
 
