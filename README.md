@@ -1,4 +1,4 @@
-zenhub-now
+ZenHub Now
 ==========
 
 Welcome to our public-facing ZenHub repo. Use this repo to submit issues, vote on feature requests, or just say hi. If you don't know about ZenHub yet, click on the logo below:
